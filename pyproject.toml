@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pilottai-agent-marketplace"
+version = "0.1.0"
+description = ""
+authors = ["anuj0456 <anuj0456@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
